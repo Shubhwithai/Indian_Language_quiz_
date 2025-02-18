@@ -1,5 +1,2 @@
 streamlit
-educhain
-langchain-google-genai
-matplotlib
-IPython
+git+https://github.com/Shubhwithai/educhain.git
